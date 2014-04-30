@@ -1,6 +1,6 @@
 # KTL (KiriKiri Trivial Library) Script
 
-吉里吉里２のための拡張機能ライブラリ KTL の TJS スクリプト  
+吉里吉里2/吉里吉里Z のための拡張機能ライブラリ KTL の TJS スクリプト  
 
 
 
